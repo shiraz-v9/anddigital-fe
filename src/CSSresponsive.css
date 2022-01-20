@@ -1,0 +1,44 @@
+@media only screen and (max-width: 700px) {
+  .CATcomponent {
+    display: none;
+  }
+  .banner {
+    width: 367px;
+    height: 151px;
+  }
+  .carousel {
+    width: 90vw;
+    margin: auto;
+  }
+  .shopContainer2 {
+    width: 95vw;
+    margin: auto;
+  }
+
+  .desc {
+    width: 95%;
+  }
+  .basketimg {
+    height: 125px;
+    width: 175px;
+  }
+}
+
+@media only screen and (min-width: 700px) and (max-width: 1000px) {
+  .banner {
+    width: 550px;
+    height: 226px;
+  }
+  .carousel {
+    width: 70vw;
+    margin: auto;
+  }
+  .desc {
+    width: 95%;
+  }
+
+  .basketimg {
+    height: 125px;
+    width: 175px;
+  }
+}
